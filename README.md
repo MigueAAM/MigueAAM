@@ -1,6 +1,6 @@
-<h1 aling="center
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I'm+Miguel+Arcos" alt="Typing SVG" />
-  </a>> 
+<h1 aling="center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I'm+Miguel+Arcos" alt="Typing SVG" >
+  </a> 
 </h1>
 <h3 align="center">
   A passionate in perform penetration testings, and I try to develop new tools for resolve machines in hack the box.
