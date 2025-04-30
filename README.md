@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Miguel+Arcos" alt="Typing SVG" /></a>
 
 <!--
 **MigueAAM/MigueAAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
